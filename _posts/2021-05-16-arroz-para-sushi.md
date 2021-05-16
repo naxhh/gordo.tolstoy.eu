@@ -2,7 +2,7 @@
 date: 2021-05-16
 title: Arroz para sushi
 categories:
-  - Postre
+  - Básicos
 featured_image: https://s1.eestatic.com/2016/02/19/cocinillas/cocinillas_103501642_116245092_1706x960.jpg
 recipe:
   servings: 1 persona
